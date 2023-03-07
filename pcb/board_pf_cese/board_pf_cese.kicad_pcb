@@ -243,7 +243,7 @@
 
   (footprint "TerminalBlock_Phoenix:TerminalBlock_Phoenix_MPT-0,5-2-2.54_1x02_P2.54mm_Horizontal" (layer "F.Cu")
     (tedit 5B294F98) (tstamp 64a31cc2-3d35-4c96-9811-3d1bdb8c21b6)
-    (at 191 78.866 90)
+    (at 112 107.54 90)
     (descr "Terminal Block Phoenix MPT-0,5-2-2.54, 2 pins, pitch 2.54mm, size 5.54x6.2mm^2, drill diamater 1.1mm, pad diameter 2.2mm, see http://www.mouser.com/ds/2/324/ItemDetail_1725656-920552.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_Phoenix")
     (tags "THT Terminal Block Phoenix MPT-0,5-2-2.54 pitch 2.54mm size 5.54x6.2mm^2 drill 1.1mm pad 2.2mm")
     (property "Sheetfile" "board_pf_cese.kicad_sch")
@@ -347,7 +347,7 @@
 
   (footprint "Connector_PinSocket_2.54mm:PinSocket_1x15_P2.54mm_Vertical" (layer "F.Cu")
     (tedit 5A19A41D) (tstamp 70e09159-de25-4550-8d3f-6009f288831d)
-    (at 146.25 102.975 90)
+    (at 146.25 112.975 90)
     (descr "Through hole straight socket strip, 1x15, 2.54mm pitch, single row (from Kicad 4.0.7), script generated")
     (tags "Through hole socket strip THT 1x15 2.54mm single row")
     (property "Sheetfile" "board_pf_cese.kicad_sch")
@@ -654,7 +654,7 @@
 
   (footprint "Connector_PinSocket_2.54mm:PinSocket_1x08_P2.54mm_Vertical" (layer "F.Cu")
     (tedit 5A19A420) (tstamp c90dccdf-be07-4c31-bf9c-c69a846bd6b3)
-    (at 120.03 76.975 90)
+    (at 120.665 74.375 90)
     (descr "Through hole straight socket strip, 1x08, 2.54mm pitch, single row (from Kicad 4.0.7), script generated")
     (tags "Through hole socket strip THT 1x08 2.54mm single row")
     (property "Sheetfile" "board_pf_cese.kicad_sch")
@@ -861,7 +861,7 @@
 
   (footprint "Connector_PinSocket_2.54mm:PinSocket_1x15_P2.54mm_Vertical" (layer "F.Cu")
     (tedit 5A19A41D) (tstamp f583fc45-a7cd-42fd-b5a5-d8005b68fcb8)
-    (at 146.25 111.975 90)
+    (at 146.25 100.975 90)
     (descr "Through hole straight socket strip, 1x15, 2.54mm pitch, single row (from Kicad 4.0.7), script generated")
     (tags "Through hole socket strip THT 1x15 2.54mm single row")
     (property "Sheetfile" "board_pf_cese.kicad_sch")
@@ -937,7 +937,7 @@
   (dimension (type aligned) (layer "Edge.Cuts") (tstamp 68043fd7-0f5e-4656-aaa6-91e9be68642d)
     (pts (xy 100 50) (xy 220 50))
     (height -4)
-    (gr_text "120.0000 mm" (at 160 44.85) (layer "Edge.Cuts") (tstamp 989bc350-df2c-4d1e-b2ed-ddfb1f27f1f5)
+    (gr_text "120.0000 mm" (at 160 44.85) (layer "Edge.Cuts") (tstamp 68043fd7-0f5e-4656-aaa6-91e9be68642d)
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (format (units 3) (units_format 1) (precision 4))
@@ -946,7 +946,7 @@
   (dimension (type aligned) (layer "Edge.Cuts") (tstamp 80418475-d08f-46e8-a10f-a949a2b9583b)
     (pts (xy 220 50) (xy 220 150))
     (height -5)
-    (gr_text "100.0000 mm" (at 223.85 100 90) (layer "Edge.Cuts") (tstamp 379f72a8-4ec7-4074-811c-c880177438c9)
+    (gr_text "100.0000 mm" (at 223.85 100 90) (layer "Edge.Cuts") (tstamp 80418475-d08f-46e8-a10f-a949a2b9583b)
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (format (units 3) (units_format 1) (precision 4))
