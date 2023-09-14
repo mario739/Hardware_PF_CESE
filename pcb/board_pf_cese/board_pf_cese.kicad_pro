@@ -505,6 +505,22 @@
     [
       "f972b6a0-1e3e-4ffa-a809-a80b99cd3c3e",
       ""
+    ],
+    [
+      "bf85b1c3-d37f-47fc-b972-7fb16c22772b",
+      "conectores_sensores"
+    ],
+    [
+      "451afded-95c5-4731-b851-52783ba702d2",
+      "conectores_alimentacion "
+    ],
+    [
+      "2e18194c-2d8c-40d7-b266-38e4d87181b1",
+      "Debug"
+    ],
+    [
+      "10282e51-ac8a-4a30-90d3-58f6be94fe46",
+      "Conectores_modulos"
     ]
   ],
   "text_variables": {}
